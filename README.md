@@ -26,8 +26,6 @@ Users should be able to:
 
 ## Links
 
-<<<<<<< HEAD
-
 - Solution URL: [https://github.com/iflucian/pod-request-acces-landing-page](https://github.com/iflucian/pod-request-acces-landing-page)
 - Live Site URL: [https://iflucian.dev/practice/pod-request-acces-landing-page](https://iflucian.dev/practice/pod-request-acces-landing-page)
 
