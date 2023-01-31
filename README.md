@@ -1,6 +1,6 @@
 # Frontend Mentor - Pod request access landing page solution
 
-This is a solution to the [Pod request access landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/pod-request-access-landing-page-eyTmdkLSG). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Pod request access landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/pod-request-access-landing-page-eyTmdkLSG).
 
 ## Table of contents
 
@@ -26,8 +26,11 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [https://github.com/iflucian/pod-request-acces-landing-page]
-- Live Site URL: [https://iflucian.dev/practice/pod-request-acces-landing-page]
+<<<<<<< HEAD
+
+- Solution URL: [https://github.com/iflucian/pod-request-acces-landing-page] (https://github.com/iflucian/pod-request-acces-landing-page)
+- Live Site URL: [https://iflucian.dev/practice/pod-request-acces-landing-page](https://iflucian.dev/practice/pod-request-acces-landing-page)
+  > > > > > > > a8a5355f7fcf508a1b850eec202d8bc0eded8c8f
 
 ## Built with
 
